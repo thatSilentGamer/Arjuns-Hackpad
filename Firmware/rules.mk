@@ -1,0 +1,21 @@
+# Enable encoder support
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = no
+
+# Enable RGB lighting
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
+
+# Enable OLED display
+OLED_ENABLE = yes
+OLED_DRIVER = ssd1306
+
+# Standard features
+MOUSEKEY_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
+NKRO_ENABLE = yes
+BACKLIGHT_ENABLE = no
+AUDIO_ENABLE = no
+RGBLIGHT_ENABLE = yes
