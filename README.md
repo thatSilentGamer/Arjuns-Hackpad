@@ -1,6 +1,6 @@
 # Arjun's Hackpad
 
-Arjun's Hackpad is an 8-key macropad with a rotary encoder, OLED display, and per-key RGB lighting. It uses custom QMK firmware with advanced features like RGB mode cycling (including OFF) and a toggleable encoder with 4 different modes.
+Arjun's Hackpad is an 8-key macropad with a rotary encoder, OLED display, and underglow RGB lighting. It uses custom QMK firmware with advanced features like RGB mode cycling and a toggleable encoder with 4 different modes.
 
 ## Features
 
@@ -101,16 +101,3 @@ All manufacturing files are included in the `production/` folder:
 6. **Add keycaps** to switches
 7. **Mount PCB** into bottom case
 8. **Attach top case** using 4x M3×16mm screws through bottom into heatset inserts
-
-## Flashing Firmware
-
-1. Hold the BOOT button on the XIAO RP2040 while plugging in USB
-2. A drive called "RPI-RP2" will appear
-3. Drag and drop `firmware.hex` (or `.uf2`) onto the drive
-4. The hackpad will reboot with QMK firmware loaded
-
-Test all keys at [keyboardtester.com](https://www.keyboardtester.com/)
-
----
-
-*Built for Hack Club's Hackpad project*
