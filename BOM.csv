@@ -3,10 +3,10 @@ Seeed XIAO RP2040,Microcontroller (unsoldered through-hole),1,5.40,5.40,https://
 MX-Style Switches,Mechanical keyboard switches,8,0.50,4.00,https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-11NW/20180
 DSA Keycaps,Black blank DSA profile keycaps,8,1.00,8.00,https://pimpmykeyboard.com/dsa-1-space-pack-of-10/
 1N4148 Diodes,Through-hole diodes (DO-35),8,0.10,0.80,https://www.digikey.com/en/products/detail/onsemi/1N4148/458603
-SK6812 MINI-E LEDs,RGB LEDs for per-key lighting,16,0.50,8.00,https://www.digikey.com/en/products/detail/adafruit-industries-llc/4960/13537301
-0.91" OLED Display,128x32 OLED (pin order: GND-VCC-SCL-SDA),1,5.00,5.00,https://www.amazon.com/HiLetgo-Serial-128X32-Display-Color/dp/B06XRBTBTB
-EC11 Rotary Encoder,Rotary encoder with detents,1,1.50,1.50,https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215F-S0024/4499665
+SK6812 MINI-E LEDs,RGB LEDs,16,0.50,8.00,https://www.digikey.com/en/products/detail/adafruit-industries-llc/4960/13537301
+0.91" OLED Display,128x32 OLED,1,5.00,5.00,https://www.amazon.com/HiLetgo-Serial-128X32-Display-Color/dp/B06XRBTBTB
+EC11 Rotary Encoder,Rotary encoder,1,1.50,1.50,https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215F-S0024/4499665
 M3x16mm Screws,Socket head cap screws for case assembly,4,0.25,1.00,https://www.mcmaster.com/91290A126/
-M3x5x4mm Heatset Inserts,Brass heatset inserts for plastic,4,0.30,1.20,https://www.mcmaster.com/94180A333/
+M3x5x4mm Heatset Inserts,Brass heatset inserts,4,0.30,1.20,https://www.mcmaster.com/94180A333/
 Custom PCB,78.72mm x 98.51mm 2-layer PCB,1,5.00,5.00,Order from JLCPCB or PCBWay using gerbers.zip
 3D Printed Case,Top and Bottom parts,1,10.00,10.00,Print using Top.step and Bottom.step files
