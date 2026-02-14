@@ -84,16 +84,16 @@ All manufacturing files are included in the `production/` folder:
 
 ## Assembly Instructions
 
-1. **Print the case parts** (Top and Bottom)
-2. **Install heatset inserts** into the 4 mounting holes in the top piece
-3. **Solder components** to the PCB in this order:
-   - Diodes (watch polarity!)
-   - RGB LEDs (SK6812 MINI-E - watch orientation!)
+1. Print the case parts
+2. Install heatset inserts into the 4 mounting holes in the top piece
+3. Solder components to the PCB:
+   - Diodes
+   - RGB LEDs
    - OLED display
    - Rotary encoder
-   - XIAO RP2040 (last)
-4. **Flash firmware** to the XIAO RP2040
-5. **Install switches** into the PCB
-6. **Add keycaps** to switches
-7. **Mount PCB** into bottom case
-8. **Attach top case** using 4x M3×16mm screws through bottom into heatset inserts
+   - XIAO RP2040
+4. Flash firmware to the XIAO RP2040
+5. Install switche* into the PCB
+6. Add keycaps to switches
+7. Mount PCB into bottom case
+8. Attach top case using 4x M3×16mm screws through bottom case part into heatset inserts
