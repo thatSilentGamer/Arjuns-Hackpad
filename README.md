@@ -9,7 +9,6 @@ Arjun's Hackpad is an 8-key macropad with a rotary encoder, OLED display, and un
 * EC11 Rotary encoder with 4 switchable modes (Volume, Brightness, Media, Scroll)
 * 16x SK6812 MINI-E RGB LEDs (2 per key) for vibrant underglow
 * Custom QMK firmware with advanced RGB and encoder control
-* Two-piece 3D printed case with 5-degree tilt
 
 ## CAD Model
 
